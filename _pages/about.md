@@ -13,6 +13,6 @@ I received my bachelor’s degree in Food Science and Engineering from [Heilongj
 
 ~~I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.~~
 
-You can find my CV here: [Yuanhai's Curriculum Vitae](../assets/CV20240720.pdf).
+You can find my CV here: [Ruisi's Curriculum Vitae](../assets/CV20240720.pdf).
 
 [Email](mailto:e1348989@u.nus.edu) / [Github](https://github.com/rancycho) / [Wechat](../images/wechat.jpg)
