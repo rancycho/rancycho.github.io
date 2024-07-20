@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postgraduate student in the FinTech program at the [School of Management and Economics, Chinese University of Hong Kong, Shenzhen](https://sme.cuhk.edu.cn/). 
+I am a postgraduate student in the Food Science and Human Nutrition program at the [Faculty of Science, National University of Singapore](https://www.science.nus.edu.sg/). 
 
-I received my bachelor’s degree in Finance from [Hunan University](https://www-en.hnu.edu.cn/) and my master’s degree in Finance from [Department of Economics and Finance, City University of Hong Kong](https://www.cb.cityu.edu.hk/ef/).
-
-My research interest includes empirical asset pricing, machine learning in finance.
+I received my bachelor’s degree in Food Science and Engineering from [Heilongjiang University](https://www.hlju.edu.cn/).
 
 ~~I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.~~
 
